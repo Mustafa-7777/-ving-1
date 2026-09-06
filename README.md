@@ -26,7 +26,7 @@ Open index.html → Open with Live Server
 
 The website will be published using GitHub Pages.
 
-[View the CV website here](https://username.github.io/repository-name/)
+[View the CV website here]https://mustafa-7777.github.io/øving-1/
 
 ## Project Structure
 
